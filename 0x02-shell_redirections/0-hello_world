@@ -1,2 +1,2 @@
 #!/bin/bash
-cat > new_file.txt \n Hello, World
+echo "Hello, World"
